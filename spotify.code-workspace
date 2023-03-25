@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "spotify",
+			"path": "."
+		},
+		{
+			"path": "../grocery Store final"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "spotify"
+	}
+}
